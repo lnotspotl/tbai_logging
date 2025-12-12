@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tbai_logging"
-version = "0.0.2"
+version = "0.1.0"
 dependencies = [
     "ruff==0.14.9",
     "pre-commit==4.5.0",
@@ -21,9 +21,3 @@ dependencies = [
 # Same as Black.
 line-length = 120
 indent-width = 2
-
-[tool.ruff.lint]
-ignore = ["E731"]
-exclude = [
-    "3rdparty/*"
-]
