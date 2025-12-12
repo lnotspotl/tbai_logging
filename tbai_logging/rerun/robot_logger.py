@@ -73,7 +73,6 @@ class RobotLogger:
     # Compute forward kinematics
     pin.forwardKinematics(self.model, self.data, q)
     pin.updateFramePlacements(self.model, self.data)
-    # Compute geometry placements - this is the proper pinocchio way
     pin.updateGeometryPlacements(self.model, self.data, self.visual_model, self.visual_data)
 
     # Base transform
@@ -86,7 +85,7 @@ class RobotLogger:
     for i, geom in enumerate(self.visual_model.geometryObjects):
       entity_path = self._entity_path(geom.name)
 
-      # Get geometry world placement from visual_data (computed by updateGeometryPlacements)
+      # Get geometry world placement from visual_data
       oMg = self.visual_data.oMg[i]
 
       # Apply base transform
