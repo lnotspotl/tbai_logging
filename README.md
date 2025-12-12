@@ -2,8 +2,9 @@
 
 ## Showcase
 
-![output2](https://github.com/user-attachments/assets/2d2686af-d172-4585-a409-30bed890bb94)
-![output3](https://github.com/user-attachments/assets/bb4aea85-e036-43d1-805c-7d5761582ebd)
+![434561804-2d2686af-d172-4585-a409-30bed890bb94](https://github.com/user-attachments/assets/872676c6-91b5-4d87-b072-50816e1853b1)
+
+![434897918-bb4aea85-e036-43d1-805c-7d5761582ebd](https://github.com/user-attachments/assets/e50be988-0492-48b0-93d9-c2e7a87d9fd1)
 
 
 ## Zoo
@@ -43,9 +44,8 @@ pip3 install -e .
 
 - [x] Switch completely to pinocchio, use nothing else but pinocchio
 
-## Showcases continued
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/d406720b-4ab3-4b13-9d63-9ed87e8a1c03" alt="backflip" style="width: 350px; height: 350px;">
-  <img src="https://github.com/user-attachments/assets/53e34d4e-2c02-4127-baad-f1ba7aba7167" alt="frontjump" style="width: 350px; height: 350px;">
+  <img src="https://github.com/user-attachments/assets/8c5fc2c8-dc1f-4b16-89be-b0072c97eb9d" alt="backflip" style="width: 350px; height: 350px;">
+  <img src="https://github.com/user-attachments/assets/5666116a-9fed-4074-9169-b1834b218cf7" alt="frontjump" style="width: 350px; height: 350px;">
 </div>
