@@ -2,9 +2,14 @@
 
 ## Showcase
 
-![434561804-2d2686af-d172-4585-a409-30bed890bb94](https://github.com/user-attachments/assets/872676c6-91b5-4d87-b072-50816e1853b1)
 
-![434897918-bb4aea85-e036-43d1-805c-7d5761582ebd](https://github.com/user-attachments/assets/e50be988-0492-48b0-93d9-c2e7a87d9fd1)
+https://github.com/user-attachments/assets/a5b508f4-88e9-454d-a982-8da7434366b4
+
+
+
+https://github.com/user-attachments/assets/b2300d0e-320c-4998-a087-f1b5f90bad14
+
+
 
 
 ## Zoo
