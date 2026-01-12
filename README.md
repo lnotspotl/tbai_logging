@@ -36,12 +36,12 @@ g1_logger = RobotLogger.from_zoo("g1_description", prefix="g1")
 
 Install directly from GitHub:
 ```bash
-pip3 install git+https://github.com/lnotspotl/tbai_logging.git
+pip3 install git+https://github.com/tbai-lab/tbai_logging.git
 ```
 
 Or clone and install in editable mode for development:
 ```bash
-git clone git@github.com:lnotspotl/tbai_logging.git && cd tbai_logging
+git clone git@github.com:tbai-lab/tbai_logging.git && cd tbai_logging
 pip3 install -e .
 ```
 
