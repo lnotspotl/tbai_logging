@@ -45,10 +45,8 @@ git clone git@github.com:tbai-lab/tbai_logging.git && cd tbai_logging
 pip3 install -e .
 ```
 
-## TODOs
-
-- [x] Switch completely to pinocchio, use nothing else but pinocchio
-
+## Showcase 
+(created by [jaeykimusa](https://github.com/jaeykimusa))
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <img src="https://github.com/user-attachments/assets/8c5fc2c8-dc1f-4b16-89be-b0072c97eb9d" alt="backflip" style="width: 350px; height: 350px;">
